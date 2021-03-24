@@ -11,7 +11,10 @@ $ cc example.c -lraylib -o example
 
 ## Experiments going on:
 `Height simulation`
-![](https://github.com/eviluser7/raylib-lab/raw/master/showcase/height.gif)
+![](./showcase/height.gif)
 
 `Mathematical functions`
-![](https://github.com/eviluser7/raylib-lab/raw/master/showcase/func.gif)
+![](./showcase/func.gif)
+
+`1D Automata`
+![](./showcase/uni-automata.gif)
