@@ -18,3 +18,6 @@ $ cc example.c -lraylib -o example
 
 `1D Automata`
 ![](./showcase/uni-automata.gif)
+
+`Temperature Calculator (Fahrenheit to Celsius and viceversa)`
+![](./showcase/fahr.gif)
